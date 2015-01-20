@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="L06_WebAPI_Json.L06_WebAPI_Json" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="10" />
+	<application android:label="L06-WebAPI_Json" android:icon="@drawable/Icon"></application>
+</manifest>
