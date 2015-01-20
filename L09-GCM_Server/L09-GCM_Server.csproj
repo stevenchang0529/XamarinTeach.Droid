@@ -36,14 +36,13 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\SampleCode\Android\PushDemo\PushDemo\PushDemo.Server\bin\Debug\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="PushSharp.Android">
-      <HintPath>..\..\..\SampleCode\Android\PushDemo\PushDemo\PushDemo.Server\bin\Debug\PushSharp.Android.dll</HintPath>
+    <Reference Include="PushSharp.Android, Version=2.1.2.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Library\PushSharp.Android.dll</HintPath>
     </Reference>
-    <Reference Include="PushSharp.Apple">
-      <HintPath>..\..\..\SampleCode\Android\PushDemo\PushDemo\PushDemo.Server\bin\Debug\PushSharp.Apple.dll</HintPath>
-    </Reference>
-    <Reference Include="PushSharp.Core">
-      <HintPath>..\..\..\SampleCode\Android\PushDemo\PushDemo\PushDemo.Server\bin\Debug\PushSharp.Core.dll</HintPath>
+    <Reference Include="PushSharp.Core, Version=2.1.2.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Library\PushSharp.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
